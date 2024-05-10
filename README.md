@@ -2,7 +2,7 @@ Nice to meet you all🙌
 
 I am a university student in Niigata, Japan, and a fledgling frontend engineer🙍‍♂️
 
-Portfolio prototyping ↓
+Portfolio prototyping : 
 https://portfolio-ecjj9tsfq-kyoheimuratas-projects.vercel.app/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyohei-murata&layout=compact
